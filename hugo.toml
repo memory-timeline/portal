@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://memory-timeline.github.io/portal/"
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'myMemoryStore'
 theme = "ananke"

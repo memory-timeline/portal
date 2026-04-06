@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://memory-timeline.github.io/portal/categories/</loc>
   </url><url>
-    <loc>https://example.org/pages/home/</loc>
+    <loc>https://memory-timeline.github.io/portal/pages/home/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://memory-timeline.github.io/portal/</loc>
   </url><url>
-    <loc>https://example.org/pages/</loc>
+    <loc>https://memory-timeline.github.io/portal/pages/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://memory-timeline.github.io/portal/tags/</loc>
   </url>
 </urlset>
