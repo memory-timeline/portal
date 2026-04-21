@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://memory-timeline.github.io/portal/</loc>
+    <lastmod>2026-04-21T11:40:17+05:30</lastmod>
+  </url><url>
+    <loc>https://memory-timeline.github.io/portal/pages/</loc>
+    <lastmod>2026-04-21T11:40:17+05:30</lastmod>
+  </url><url>
+    <loc>https://memory-timeline.github.io/portal/pages/test/</loc>
+    <lastmod>2026-04-21T11:40:17+05:30</lastmod>
+  </url><url>
     <loc>https://memory-timeline.github.io/portal/categories/</loc>
   </url><url>
     <loc>https://memory-timeline.github.io/portal/pages/home/</loc>
-  </url><url>
-    <loc>https://memory-timeline.github.io/portal/</loc>
-  </url><url>
-    <loc>https://memory-timeline.github.io/portal/pages/</loc>
   </url><url>
     <loc>https://memory-timeline.github.io/portal/tags/</loc>
   </url>
