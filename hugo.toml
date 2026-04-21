@@ -11,10 +11,15 @@ theme = "ananke"
 
   [[menu.main]]
     name = "Privacy"
-    url = "/pages/privacy/"
+    url = "/privacy/"
     weight = 2
 
   [[menu.main]]
     name = "Terms"
-    url = "/pages/terms/"
+    url = "/terms/"
     weight = 3
+
+  [[menu.main]]
+    name = "Product"
+    url = "/product/"
+    weight = 4

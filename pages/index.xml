@@ -9,27 +9,6 @@
     <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://memory-timeline.github.io/portal/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Privacy</title>
-      <link>https://memory-timeline.github.io/portal/pages/privacy/</link>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0530</pubDate>
-      <guid>https://memory-timeline.github.io/portal/pages/privacy/</guid>
-      <description>&lt;p&gt;This is the privacy page&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Product</title>
-      <link>https://memory-timeline.github.io/portal/pages/product/</link>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0530</pubDate>
-      <guid>https://memory-timeline.github.io/portal/pages/product/</guid>
-      <description>&lt;p&gt;This is a product placeholder page.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Terms</title>
-      <link>https://memory-timeline.github.io/portal/pages/terms/</link>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0530</pubDate>
-      <guid>https://memory-timeline.github.io/portal/pages/terms/</guid>
-      <description>&lt;p&gt;This is the terms page.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Test</title>
       <link>https://memory-timeline.github.io/portal/pages/test/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0530</pubDate>

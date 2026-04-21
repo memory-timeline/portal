@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>myMemoryStore</title>
+    <title>Home on myMemoryStore</title>
     <link>https://memory-timeline.github.io/portal/</link>
-    <description>Recent content on myMemoryStore</description>
+    <description>Recent content in Home on myMemoryStore</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://memory-timeline.github.io/portal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy</title>
-      <link>https://memory-timeline.github.io/portal/pages/privacy/</link>
+      <link>https://memory-timeline.github.io/portal/privacy/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0530</pubDate>
-      <guid>https://memory-timeline.github.io/portal/pages/privacy/</guid>
+      <guid>https://memory-timeline.github.io/portal/privacy/</guid>
       <description>&lt;p&gt;This is the privacy page&lt;/p&gt;</description>
     </item>
     <item>
       <title>Product</title>
-      <link>https://memory-timeline.github.io/portal/pages/product/</link>
+      <link>https://memory-timeline.github.io/portal/product/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0530</pubDate>
-      <guid>https://memory-timeline.github.io/portal/pages/product/</guid>
+      <guid>https://memory-timeline.github.io/portal/product/</guid>
       <description>&lt;p&gt;This is a product placeholder page.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Terms</title>
-      <link>https://memory-timeline.github.io/portal/pages/terms/</link>
+      <link>https://memory-timeline.github.io/portal/terms/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0530</pubDate>
-      <guid>https://memory-timeline.github.io/portal/pages/terms/</guid>
+      <guid>https://memory-timeline.github.io/portal/terms/</guid>
       <description>&lt;p&gt;This is the terms page.&lt;/p&gt;</description>
     </item>
     <item>
