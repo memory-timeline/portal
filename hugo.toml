@@ -2,3 +2,19 @@ baseURL = "https://memory-timeline.github.io/portal/"
 locale = 'en-us'
 title = 'myMemoryStore'
 theme = "ananke"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Privacy"
+    url = "/pages/privacy/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Terms"
+    url = "/pages/terms/"
+    weight = 3
