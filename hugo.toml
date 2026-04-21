@@ -1,4 +1,4 @@
-baseURL = "https://memory-timeline.github.io/portal/"
+baseURL = "https://portal-stage.mymemorystore.in/"
 locale = 'en-us'
 title = 'myMemoryStore'
 theme = "ananke"
