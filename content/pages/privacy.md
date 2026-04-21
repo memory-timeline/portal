@@ -1,5 +1,7 @@
 +++
-date = '2026-04-21T12:04:34+05:30'
-draft = false
 title = 'Privacy'
+date = 2026-04-21T00:00:00+05:30
+draft = false
 +++
+
+This is the privacy page
